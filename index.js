@@ -2,9 +2,9 @@
 // pseudocode if false state "The boolean value false is falsy"
 // pesudocode if null state "The null value is falsy";
 
-//const input = prompt(`are you a string`)
+/*const input = prompt(`are you a string`)
 
-/*if (input === `i am a string`){
+if (input === `i am a string`){
     console.log(`true`)
 } else if(input === `false`) {
     console.log(`the boolean value is false is falsy`);
@@ -45,7 +45,7 @@ if(sum === -1000){
 
 
 //pseduocode create a script tag 
-const input1 = 5
+/*const input1 = 5
 const input2 = 4
 //pseduocode prints true if both parameter is greater to 5
 //pseduocode print true if both parameter is equal to 5
@@ -55,7 +55,7 @@ if(input1 >= 5 && input2 >= 5){
 //pseduocode print false if one input is less than 5
 else if(input1 < 5 || input2 < 5){
     console.log(false)
-}
+}*/
 
 
 /*const input1 = 5
@@ -67,3 +67,17 @@ if(input1>= 5 && input2>= 5){
     console.log(`false`)
 }*/
 
+/*
+if("cat" && "cat" || 6 && 6){
+    console.log(`true`)
+}else if ("five" && 5 || "dog" && "dawg" ){
+    console.log(`false`)
+}else if (0 && "!false" || "horse" && "horse"){
+    console.log(`true`)
+}else if ("eight" && "eight" || "ate" && "ate"){
+    console.log(`true`)
+}else if (11 && "eleven" || "four" && "for"){
+    console.log(`false`)
+}else if ("cake" && "cake" || "pie" && "pie"){
+    console.log(`true`)
+}*/
